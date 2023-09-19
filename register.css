@@ -99,7 +99,7 @@ button{
 .regi{
     padding-top: 1em;
     display: flex;
-    
+    transition: all 500ms;
     justify-content: center;
 }
 
@@ -168,3 +168,7 @@ a{
 }
 
 
+.regi a:hover{
+    text-decoration: underline 1px solid black;
+    transition: 500ms;
+}

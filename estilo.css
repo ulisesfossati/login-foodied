@@ -111,3 +111,8 @@ a{
     padding-left: 0.5em;
     color: black;
 }
+
+.regi a:hover{
+    text-decoration: underline 1px solid black;
+    transition: 500ms;
+}
