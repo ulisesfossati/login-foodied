@@ -101,3 +101,13 @@ button{
     display: flex;
     justify-content: center;
 }
+
+.preg{
+    color: gray;
+}
+
+a{
+    text-decoration: none;
+    padding-left: 0.5em;
+    color: black;
+}
